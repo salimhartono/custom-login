@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Form Login</string>
+    <string name="emailAddres">Alamat Email</string>
+    <string name="belajar">Belajar</string>
+    <string name="login">Login</string>
+    <string name="nothaveAccount">Not Have Account? Register</string>
+    <string name="hire">Hire</string>
+    <string name="emailInvalid">email tidak valid</string>
+    <string name="emailValid">email valid</string>
+    <string name="paswordInvalid">panjang pasword min 8</string>
+    <string name="passwordValid">password valid</string>
+</resources>
